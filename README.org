@@ -2,4 +2,10 @@
 
 My name is Diego Zamboni. I am a computer scientist and architect, project and team leader, programmer, sysadmin, author and overall geek. I love automation, computer security, cool programming languages and tools.
 
-🌎 [[https://zzamboni.org/][My website]] │[[file:leanpub.svg]] [[https://leanpub.com/u/zzamboni][My books]]│[[file:twitter.svg]] [[https://twitter.com/zzamboni][@zzamboni]]
+#+begin_export html
+<p align="center">
+<a href="https://twitter.com/zzamboni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zzamboni" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/zzamboni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zzamboni" height="20" width="20" /></a>
+<a href="https://www.youtube.com/c/zzamboni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zzamboni" height="20" width="20" /></a>
+</p>
+#+end_export
