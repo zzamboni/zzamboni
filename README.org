@@ -1,6 +1,5 @@
-*** Hi there 👋
-    :PROPERTIES:
-    :CUSTOM_ID: hi-there
-    :END:
+* Welcome
 
-    This is a test to see if the personal README can also be an Org-mode file.
+My name is Diego Zamboni. I am a computer scientist and architect, project and team leader, programmer, sysadmin, author and overall geek. I love automation, computer security, cool programming languages and tools.
+
+🌎 [[https://zzamboni.org/][My website]] │[[file:leanpub.svg]] [[https://leanpub.com/u/zzamboni][My books]]│[[file:twitter.svg]] [[https://twitter.com/zzamboni][@zzamboni]]
