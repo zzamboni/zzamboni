@@ -2,7 +2,7 @@
 
 I am a computer scientist and architect, project and team leader, programmer, sysadmin, author and overall geek. I love automation, computer security, cool programming languages and tools.
 
-I write and code about Emacs LISP, [[https://orgmode.org/][Org-mode]] and [[https://www.gnu.org/software/emacs/][Emacs]], [[http://www.hammerspoon.org/][Hammerspoon]], the [[https://elv.sh/][Elvish shell]], and other tech topics.
+At work, I am an Enterprise Security Architect at [[https://www.swisscom.com/][Swisscom]]. Outside work, I write and code about [[https://orgmode.org/][Org-mode]] and [[https://www.gnu.org/software/emacs/][Emacs]], [[http://www.hammerspoon.org/][Hammerspoon]], the [[https://elv.sh/][Elvish shell]], and other tech topics.
 
 ** More about me
 #+begin_html
