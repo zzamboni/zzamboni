@@ -1,0 +1,6 @@
+*** Hi there 👋
+    :PROPERTIES:
+    :CUSTOM_ID: hi-there
+    :END:
+
+    This is a test to see if the personal README can also be an Org-mode file.
