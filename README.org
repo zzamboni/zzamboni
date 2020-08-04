@@ -5,8 +5,6 @@ I am a computer scientist and architect, project and team leader, programmer, sy
 At work, I am an Enterprise Security Architect at [[https://www.swisscom.com/][Swisscom]]. Outside work, I write and code about [[https://orgmode.org/][Org-mode]] and [[https://www.gnu.org/software/emacs/][Emacs]], [[http://www.hammerspoon.org/][Hammerspoon]], the [[https://elv.sh/][Elvish shell]], and other tech topics.
 
 ** More about me
-[[https://raw.githubusercontent.com/zzamboni/zzamboni/master/zzamboni.png]] My website and blog | [[https://raw.githubusercontent.com/zzamboni/zzamboni/master/leanpub.svg]] My books on Leanpub | [[https://raw.githubusercontent.com/zzamboni/zzamboni/master/twitter.svg]] | [[https://raw.githubusercontent.com/zzamboni/zzamboni/master/linkedin.svg]] | [[https://raw.githubusercontent.com/zzamboni/zzamboni/master/youtube.svg]]
-
 #+begin_html
 <a href="https://zzamboni.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zzamboni/zzamboni/master/zzamboni.svg" alt="zzamboni.org" height="20" width="20" /> My website and blog</a>&nbsp;&middot;&nbsp;
 <a href="https://leanpub.com/u/zzamboni" target="blank"><img align="center" src="https://raw.githubusercontent.com/zzamboni/zzamboni/master/leanpub.svg" alt="Leanpub" height="20" width="20" /> My books on Leanpub</a>&nbsp;&middot;&nbsp;
