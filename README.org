@@ -2,7 +2,7 @@
 
 I am a computer scientist and architect, project and team leader, programmer, sysadmin, author and overall geek. I love automation, computer security, cool programming languages and tools.
 
-At work, I am a Global Security Architect at [[https://aws.amazon.com/][AWS]]. Outside work, I write and code about [[https://orgmode.org/][Org-mode]] and [[https://www.gnu.org/software/emacs/][Emacs]], [[http://www.hammerspoon.org/][Hammerspoon]], the [[https://elv.sh/][Elvish shell]], and other tech topics.
+At work, I am a Senior Global Security Architect at [[https://aws.amazon.com/][AWS]] Professional Services. Outside work, I write and code about [[https://orgmode.org/][Org-mode]] and [[https://www.gnu.org/software/emacs/][Emacs]], [[http://www.hammerspoon.org/][Hammerspoon]], the [[https://elv.sh/][Elvish shell]], and other tech topics.
 
 All my GitHub repositories are of personal nature, and have no relationship with my work activities.
 
