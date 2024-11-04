@@ -10,7 +10,7 @@ All my GitHub repositories are of personal nature, and have no relationship with
 #+begin_html
 <a href="https://zzamboni.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zzamboni/zzamboni/master/zzamboni.png" alt="zzamboni.org" height="24" width="24" /> My website and blog</a>&nbsp;&middot;&nbsp;
 <a href="https://leanpub.com/u/zzamboni" target="blank"><img align="center" src="https://raw.githubusercontent.com/zzamboni/zzamboni/master/leanpub.svg" alt="Leanpub" height="24" width="24" /> My books on Leanpub</a>&nbsp;&middot;&nbsp;
-<a href="https://twitter.com/zzamboni" target="blank"><img align="center" src="https://raw.githubusercontent.com/zzamboni/zzamboni/master/twitter.svg" alt="@zzamboni" height="24" width="24" /></a>&nbsp;&middot;&nbsp;
+<a href="https://bsky.app/profile/zzamboni.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/zzamboni/zzamboni/master/bluesky.svg" alt="@zzamboni" height="24" width="24" /></a>&nbsp;&middot;&nbsp;
 <a href="https://linkedin.com/in/zzamboni" target="blank"><img align="center" src="https://raw.githubusercontent.com/zzamboni/zzamboni/master/linkedin.svg" alt="My LinkedIn profile" height="24" width="24" /></a>&nbsp;&middot;&nbsp;
 <a href="https://www.youtube.com/c/DiegoZamboni1" target="blank"><img align="center" src="https://raw.githubusercontent.com/zzamboni/zzamboni/master/youtube.svg" alt="My YouTube channel" height="24" width="24" /></a>
 #+end_html
